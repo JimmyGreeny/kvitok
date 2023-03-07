@@ -1,0 +1,5 @@
+[
+  {"item": "", "price": 0.0, "id": "uuid.v4()"},
+  {"item": "pipe", "price": 50.0, "id": "uuid.v4()"},
+  {"item": "cable", "price": 200.0, "id": "uuid.v4()"}
+]
