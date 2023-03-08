@@ -57,6 +57,17 @@ table {
     border-radius: 0.25rem;
     text-align: center;
   }
+
+/* Chrome, Safari, Edge, Opera */
+  input.form-control::-webkit-outer-spin-button,
+  input.form-control::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+/* Firefox */
+  input.form-control {
+    -moz-appearance: textfield;
+  }
   
   /*/////////////////////////////////////////////*/
   
